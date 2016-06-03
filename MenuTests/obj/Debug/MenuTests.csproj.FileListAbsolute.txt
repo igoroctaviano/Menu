@@ -1,0 +1,8 @@
+C:\Users\Igor Octaviano\Desktop\tp-pd\Menu\MenuTests\bin\Debug\MenuTests.dll
+C:\Users\Igor Octaviano\Desktop\tp-pd\Menu\MenuTests\bin\Debug\MenuTests.pdb
+C:\Users\Igor Octaviano\Desktop\tp-pd\Menu\MenuTests\bin\Debug\Menu.exe
+C:\Users\Igor Octaviano\Desktop\tp-pd\Menu\MenuTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Igor Octaviano\Desktop\tp-pd\Menu\MenuTests\bin\Debug\Menu.pdb
+C:\Users\Igor Octaviano\Desktop\tp-pd\Menu\MenuTests\obj\Debug\MenuTests.csprojResolveAssemblyReference.cache
+C:\Users\Igor Octaviano\Desktop\tp-pd\Menu\MenuTests\obj\Debug\MenuTests.dll
+C:\Users\Igor Octaviano\Desktop\tp-pd\Menu\MenuTests\obj\Debug\MenuTests.pdb

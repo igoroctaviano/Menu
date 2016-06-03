@@ -1,0 +1,7 @@
+c:\users\igor octaviano\documents\visual studio 2015\Projects\Menu\Menu\bin\Debug\Menu.exe.config
+C:\Users\Igor Octaviano\Desktop\tp-pd\Menu\Menu\bin\Debug\Menu.exe.config
+C:\Users\Igor Octaviano\Desktop\tp-pd\Menu\Menu\bin\Debug\Menu.exe
+C:\Users\Igor Octaviano\Desktop\tp-pd\Menu\Menu\bin\Debug\Menu.pdb
+C:\Users\Igor Octaviano\Desktop\tp-pd\Menu\Menu\obj\Debug\Menu.csprojResolveAssemblyReference.cache
+C:\Users\Igor Octaviano\Desktop\tp-pd\Menu\Menu\obj\Debug\Menu.exe
+C:\Users\Igor Octaviano\Desktop\tp-pd\Menu\Menu\obj\Debug\Menu.pdb
